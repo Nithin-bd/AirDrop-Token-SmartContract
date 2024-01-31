@@ -9,8 +9,8 @@ There are 2 smart contracts:
 This contract consists of 4 functions:
 - `airdropToken` : accepts a list of beneficiares along with their corresponding values
 - `checkBalance` : returns the balance of the AirDrop smart contract
-- `owner` : Address of the owner
-- `token` : Token smart contract address
+- `owner` : address of the owner
+- `token` : token smart contract address
 
 ##  ERC20Token.sol
 
